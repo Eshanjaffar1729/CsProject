@@ -1,2 +1,2 @@
 # CsProject
-Cs Project for schoold
+Cs Project for school
