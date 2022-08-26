@@ -11,14 +11,13 @@ sheet_obj = wb_obj.active
 X = []
 Y = []
 l = []
-be = 2
-e = 100
+n = 100
 MA =[]
 
-for i in range(be,e):
+for i in range(2,n+2):
     X.append(i)
 
-for i in range(be,e):
+for i in range(2,n+2):
     cell_obj = sheet_obj.cell(row = i, column = 2)
     Y.append(cell_obj.value)
 
