@@ -1,4 +1,4 @@
-# Stock Trend Predictor
+<h1 align="center"> Stock Trend Predictor</h1>
 
 ## INTRODUCTION
 *	Stock Trend Predictor is python program that utilizes data in a MySQL table to predict the general Stock Trend using moving averages
