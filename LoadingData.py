@@ -12,7 +12,6 @@ sheet_obj = wb_obj.active
 #defining Some useful variables and lists
 X = []
 Y = []
-l = []
 n=100
 
 for i in range(1,n+1):
