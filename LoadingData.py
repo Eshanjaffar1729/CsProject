@@ -1,9 +1,8 @@
 import  mysql.connector 
 import openpyxl
 
-psd = input("Enter password: ")
 
-db = mysql.connector.connect(host="localhost",user="root",passwd=psd,database="Stock1")
+db = mysql.connector.connect(host="localhost",user="root",passwd="",database="Stock1")
 mc = db.cursor()
 
 
