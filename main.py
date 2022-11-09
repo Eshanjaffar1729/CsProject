@@ -9,7 +9,7 @@ def average(x):
         ans += elems
     return ans/len(x)
 
-db = mysql.connector.connect(host="localhost",user="root",passwd="27182818284590",database="stock1")
+db = mysql.connector.connect(host="localhost",user="root",passwd="",database="stock1")
 mc = db.cursor()
 
 
